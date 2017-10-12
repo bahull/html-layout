@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    width:100%;
+    height: 500px;
+    background: rgb(216 , 216, 216);
+}
+header {
+    height:39%;
+    width:100%;
+    background: rgb(68, 68, 68);
+}
+.main-body {
+    background:rgb(239,239, 239);
+    height: 688px;
+    width:75%;
+    margin:auto;
+
+}
+footer {
+    background: rgb(34, 34, 34);
+    height: 105px;
+    width:75%;
+    margin:auto;
+}

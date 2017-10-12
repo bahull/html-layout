@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height:500px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 20%;
+    width: 100%;
+    background: rgb(216, 216, 216);
+    padding: 25px;
+}
+.blue-box {
+    height: 50px;
+    width: 50px;
+    background: rgb(74, 144, 226);
+}
+
+.mid-body-p {
+    padding-top: 34px;
+    width: 94.8%;
+    margin:auto;
+}
+.blue-rec {
+    background: rgb(74, 144, 226);
+    width: 100%;
+    height: 20.5%;
+    margin-top: 110px;
+}
+.cyan-rec {
+    background:rgb(80, 227, 194);
+    width: 100%;
+    height: 20.5%;
+}
+.green-rec {
+    background:rgb(184, 233, 134);
+    width: 100%;
+    height: 20.5%;
+}
+.yellow-rec {
+    background:rgb(248, 231, 28);
+    width: 100%;
+    height: 20.5%;
+}
